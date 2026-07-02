@@ -14,7 +14,7 @@ The objective of this project is to analyze customer review data to understand p
 
 ## Dashboard Preview
 
-![Dashboard](British_Airways_Dashboard.png)
+![Dashboard](BA.png)
 
 ---
 
